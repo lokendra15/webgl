@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/webgl/static/css/main.073c9b0a.css",
+    "main.js": "/webgl/static/js/main.32ab902e.js",
+    "static/js/787.c55c4120.chunk.js": "/webgl/static/js/787.c55c4120.chunk.js",
+    "index.html": "/webgl/index.html",
+    "main.073c9b0a.css.map": "/webgl/static/css/main.073c9b0a.css.map",
+    "main.32ab902e.js.map": "/webgl/static/js/main.32ab902e.js.map",
+    "787.c55c4120.chunk.js.map": "/webgl/static/js/787.c55c4120.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.32ab902e.js"
+  ]
+}
